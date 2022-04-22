@@ -5,3 +5,4 @@ A repo where I keep my solutions to competitive programming problems on differen
 ## favorit problems
 
 1. UVA 11987 - Almost Union-Find
+2. SPOJ - KOICOST
